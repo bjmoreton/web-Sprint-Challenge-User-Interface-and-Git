@@ -221,12 +221,13 @@ nav a:hover {
 
 .d1 {
     display: flex;
+    justify-content: space-between;
 }
 
 .section-detail {
     margin-bottom: 2vh;
     border-bottom: 1px dashed black;
-    width: 80%;
+    width: 48%;
 }
 
 .learnMore {
@@ -236,4 +237,8 @@ nav a:hover {
     border-radius: 8px;
     margin-bottom: 2vh;
     cursor: pointer;
+}
+
+.learnMore:hover {
+    border: 1px dotted red;
 }
