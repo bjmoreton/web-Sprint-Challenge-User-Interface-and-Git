@@ -207,6 +207,7 @@ nav a:hover {
 .aboutIntro {
     border-bottom: 1px dashed black;
     margin-bottom: 2vh;
+    width: 100%;
 }
 
 .boldWord {
